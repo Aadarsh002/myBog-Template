@@ -1,0 +1,68 @@
+
+body{
+  background-color: #fff;
+  margin: 3% 10% 0 10%;
+}
+
+
+#heading{
+  text-align: center;
+  margin-bottom: 3%;
+}
+.span-unknown{
+  background-color: black;
+  color: white;
+}
+.mr-up{
+  margin-top: -5%;
+}
+.mr-top{
+  margin-top: 6%;
+}
+
+.h6-title{
+  padding: 2% 0;
+}
+
+.post-heading{
+  padding: 20px;
+  background-color: #ddd;
+}
+.p-img{
+  width: 15%;
+  height: 15%;
+}
+.p-img{
+  float: left;
+  padding-right: 10px;
+}
+hr{
+  width: 100%;
+}
+.last-div{
+  float: left;
+  margin-top: -16%;
+}
+.sp1{
+  margin-right: 3%;
+  padding: 1%;
+  background-color: #eee;
+  line-height: 2.5rem;
+}
+.travel{
+  background-color: black;
+  color: white;
+}
+
+/*footer section*/
+#footer{
+  margin: 0 -14% 0 -14%;
+  background-color: black;
+  color: white;
+}
+.btn-class{
+  padding: 5% 0 2% 3%;
+}
+.btn-p{
+  padding:0 0 5% 3%;
+}
